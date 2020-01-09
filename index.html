@@ -3,6 +3,17 @@ title: NVM Projects & Solutions
 layout: default 
 bodyClass: page-home 
 ---
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 
 <div class="intro pb-4">
     <div class="container">
