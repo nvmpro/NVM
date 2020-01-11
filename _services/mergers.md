@@ -1,5 +1,5 @@
 ---
-title: "Mergers"
+title: "Design and Packaging Consulting"
 image: "/services/default.png"
 ---
 
