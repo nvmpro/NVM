@@ -1,5 +1,5 @@
 ---
-title: 'Business Sales'
+title: 'Trademark and IP Consultants'
 image: '/services/default.png'
 ---
 
