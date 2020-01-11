@@ -1,5 +1,5 @@
 ---
-title: 'Tax Preperation'
+title: 'Startup Consulting'
 image: '/services/noun_1013177.png'
 ---
 
