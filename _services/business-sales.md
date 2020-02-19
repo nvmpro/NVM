@@ -1,6 +1,6 @@
 ---
-title: 'Trademark and IP Consultants'
-image: '/services/default.png'
+title: TM and IP Consultants
+image: /services/default.png
 ---
 
 We help our clients turn ideas and innovations into enterprise opportunities.We define intellectual assets to create intellectual prosperity.
