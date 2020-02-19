@@ -1,5 +1,5 @@
 ---
-title: Design & Print Consulting
+title: Design & Print Solutions
 image: /services/default.png
 ---
 
