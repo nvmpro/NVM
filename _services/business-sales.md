@@ -3,7 +3,7 @@ title: 'Trademark and IP Consultants'
 image: '/services/default.png'
 ---
 
-We **help** our **clients** turn **ideas** and **innovations** into **enterprise** opportunities.We define **intellectual****assets** to create **intellectual** prosperity.
+We help our clients turn ideas and innovations into enterprise opportunities.We define intellectual assets to create intellectual prosperity.
 
 * Dente reponere dixere referre excessitque seque
 * Tacui si cui inde haec ubi trepidas
