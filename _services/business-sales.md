@@ -5,28 +5,15 @@ image: /services/default.png
 
 We help our clients turn ideas and innovations into enterprise opportunities.We define intellectual assets to create intellectual prosperity.
 
-* Dente reponere dixere referre excessitque seque
-* Tacui si cui inde haec ubi trepidas
-* Coniunx nulla aut
+Our Attorneys are specialised in Protection of different styles of Trademarks or Service marks as Logo, Name, Composite mark, slogan, shape, captions, Monogram and punch line also advising at the adoption and selection of new trademarks; filing and prosecuting programs to sign up trademarks; advising at the use and registration of trademarks; managing trademark oppositions, revocations, invalidations and assignments; perform searches; and advising on trademark infringement matters
 
-## Geniti facinus praeruptam atris ab manus in
+* * Trademark Registration Service
+  * Trademark Watching Service
+  * Protecting from Infringement and passing off
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere non *tangere* tendens corpore sed. Sine genae ominibus cereris, pectebant tum [crudelia](#mutavit-lacertos), oscula. Veneris *rumpe tibi* aliquis paenituisse; cum tanti pressus erat *ira magnumque videntem*; fit est misit nec. Est ea vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque patiensque, Perrhaebum **illa**\: querenti.
+Safety of an invention of a new product or a new manner that involves technological advancement and has financial significance, which makes that new product or process non-obvious to someone who is skilled in the era to which the product or system belongs. Also, advising filing and prosecuting applications to check in Patents; advising on the use and registration of Patents; managing Patent oppositions, revocations, invalidations, and assignments; carry out searches; and advising on
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
-
-*Fuit* eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede **foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
-
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior *et urit certe* relevare comites vestibus? Digredimur *conbibitur citius induruit* manes pressique Nyctimenen ille comas ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe motibus; opem baculum.
+* Patent infringement matters
+* Patent Registration Service
+* International patentability search
+* PCT Application
