@@ -3,10 +3,10 @@ title: Certifications
 image: /services/default.png
 ---
 
-Different organizations have different management systems. Some have a mix of informal and formal management system elements, in which case the consultant may perform a gap analysis and internal audit to create a unified system that meets the requirements for management systems standards.
+Different **groups** have different **management** **systems**. Some have **a mix** of **casual** and formal **control** **machine** elements, **in which** case the **consultant** may **carry out** a gap **analysis** and **inner** audit to create a unified **machine** that meets the **necessities** for **control** **structures** standards.
 
-We have worked for different types of organizations are more experienced than those who just revolve around one sector.
+We have **worked** for **differing types** of **agencies** are **extra** **skilled** than **folks that** **simply** revolve **round** one sector.
 
-They have seen mistakes and know how to avoid them. We can also provide customized services as a result of the lessons they have learned from past experience.
+They have **seen** **mistakes** and **recognize** how to **avoid** them. We **also can** **offer** **custom designed** services **because of** the **lessons** they have **found out** from **beyond** experience.
 
-You can verify their expertise by checking their references and case studies.
+You can **affirm** their **expertise** **via** checking their references and case studies.
