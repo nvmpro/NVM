@@ -6,13 +6,13 @@ title: 'NVM Projects & Solutions'
 collections:
   services:
     output: true
-    permalink: /services/:path/
+    permalink: /services/:title/
   team:
     output: true
-    permalink: /team/:path/
+    permalink: /team/:title/
   testimonials:
     output: true
-    permalink: /testimonials/:path/
+    permalink: /testimonials/:title/
 
 defaults:
   - scope:
