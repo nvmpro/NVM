@@ -1,6 +1,6 @@
 baseurl: ''
 exclude: ['README.md']
-permalink: pretty
+permalink: /:title/
 title: 'NVM Projects & Solutions'
 
 collections:
