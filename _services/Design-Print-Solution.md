@@ -2,6 +2,19 @@
 title: Design & Print Solutions
 image: /services/default.png
 ---
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "name" : "Design & Print Solutions",
+  "image" : "https://www.nvmpro.online/assets/images/logo.png",
+  "description" : "We <STRONG>provide</STRONG> a high <STRONG>first-class</STRONG> and <STRONG>less costly</STRONG> <STRONG>design</STRONG> and print service.",
+  "brand" : {
+    "@type" : "Brand",
+    "name" : "NVM"
+  }
+}
+</script>
 
 We **provide** a high **first-class** and **less costly** **design** and print service.
 
