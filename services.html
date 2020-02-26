@@ -6,6 +6,21 @@ bodyClass: page-services-list
 
 <div class="intro">
   <div class="container">
+<div class="container pt-2">
+    <div class="call">
+        <div class="call-box-top">
+            <div class="call-phone"><strong>Phone: </strong> {{ site.data.contact.phone }} </div>
+            <div class="call-email"><strong>Email: </strong>
+                <a href="mailto:{{ site.data.contact.email }}">
+          {{ site.data.contact.email }}
+        </a>
+            </div>
+        </div>
+        <div class="call-box-bottom">
+            <a href="{{site.baseurl}}/contact" class="button">Contact</a>
+        </div>
+    </div>
+</div>
     <div class="row">
       <div class="col-12">
         <h1>Services that grow with your business</h1>
