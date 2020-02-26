@@ -7,4 +7,4 @@ business: Seawoods Telecom India
 jobtitle: National Business Head
 ---
 
-> NVM has been at the forefront for a lot of activities from packaging Design & Printing services to availing us key certifications required for our business. They are largely responsible for giving us necessary space to be involved in our primary business
+> NVM has been at the forefront for a lot of activities from packaging Design & Printing services to availing us key certifications required for our business. They are largely responsible for giving us necessary space to be involved in our primary business activities
