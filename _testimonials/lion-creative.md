@@ -1,10 +1,10 @@
 ---
-title: 'Lion Creative'
-image: ''
-businessurl: ''
-name: 'Jessica Lion'
-business: 'Lion Creative'
-jobtitle: 'Creative Director'
+title: Selectiam Mobile Accessories
+image: /uploads/72995638-144746530227799-3025532326609158144-n.jpg
+businessurl: 'https://www.selectiam.in'
+name: Prakash Choudhary
+business: Seawoods Telecom India
+jobtitle: National Business Head
 ---
 
-> Sales bandwidth business model canvas android infographic leverage prototype traction buzz. Founders stock startup incubator gamification series A financing churn rate gen-z ecosystem bootstrapping branding. Interaction design partnership technology. Hackathon infrastructure bandwidth bootstrapping.
+> NVM has been at the forefront for a lot of activities from packaging Design & Printing services to availing us key certifications required for our business. They are largely responsible for giving us necessary space to be involved in our primary business
