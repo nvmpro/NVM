@@ -4,9 +4,7 @@ image: /services/default.png
 ---
 
 <meta name="keywords" content="Design and Print, business card design, letterhead printing, print cards online, print design, linocut designs , posters, flyers, banners">
-<meta name="robots" content="index, follow">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="language" content="English">
+
 
 <script type="application/ld+json">
 {
