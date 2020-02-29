@@ -2,6 +2,13 @@
 title: Design & Print Solutions
 image: /services/default.png
 ---
+<meta name="title" content="Design and Printing Solutions">
+<meta name="description" content="We provide a high first-class and less costly design and print service. Whatever you need, we will help!Our friendly design team create innovative..">
+<meta name="keywords" content="Design and Print, business card design, letterhead printing, print cards online, print design, linocut designs , posters, flyers, banners">
+<meta name="robots" content="index, follow">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+
 <script type="application/ld+json">
 {
   "@context" : "http://schema.org",
@@ -15,6 +22,7 @@ image: /services/default.png
   }
 }
 </script>
+
 
 We **provide** a high **first-class** and **less costly** **design** and print service.
 
