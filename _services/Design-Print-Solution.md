@@ -3,8 +3,6 @@ title: Design & Print Solutions
 image: /services/default.png
 ---
 
-<meta name="keywords" content="Design and Print, business card design, letterhead printing, print cards online, print design, linocut designs , posters, flyers, banners">
-
 
 <script type="application/ld+json">
 {
