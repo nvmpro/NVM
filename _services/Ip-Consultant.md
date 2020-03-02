@@ -1,6 +1,7 @@
 ---
 title: TM and IP Consultants
 image: /services/default.png
+keywords: Trademark,Patent,IP consultant,registration
 ---
 
 We help our clients turn ideas and innovations into enterprise opportunities.We define intellectual assets to create intellectual prosperity.
