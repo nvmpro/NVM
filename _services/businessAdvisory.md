@@ -1,6 +1,7 @@
 ---
 title: 'Business Advisory'
 image: '/services/default.png'
+keywords: Business Plans,Profit Improvement,Advisory,Software Selection
 ---
 
 Business advisory services are furnished with the aim to assist undertakings become aware of strengths and overcome weaknesses in unique areas
