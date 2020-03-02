@@ -1,5 +1,5 @@
 ---
-title: TM and IP Consultants
+title: TM & IP Consultants
 image: /services/default.png
 keywords: Trademark,Patent,IP consultant,registration
 ---
