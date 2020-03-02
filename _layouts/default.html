@@ -5,6 +5,7 @@
   <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="title" content={% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %} />
   <meta name="description" content="{{ page.content | markdownify | strip_html | truncate: 155 }}" />
+  <meta name="keywords" content="{{ page.keywords }}" />
   <meta name="robots" content="index, follow">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="language" content="English">
