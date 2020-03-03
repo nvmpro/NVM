@@ -13,6 +13,15 @@
   <link rel="canonical" href="{{ page.url | prepend: site.url }}">
   <link rel="icon" href="{{site.baseurl}}/images/favicon.png">
   <link href="{{site.baseurl}}/assets/css/style.css" rel="stylesheet">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129819157-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129819157-2');
+</script>
 </head>
 <body class='page {{page.bodyClass}}'>
   {% include main-menu-mobile.html %}
