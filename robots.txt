@@ -1,0 +1,3 @@
+Sitemap: https://wwww.nvmpro.online/sitemap.xml
+User-agent:*
+Allow
