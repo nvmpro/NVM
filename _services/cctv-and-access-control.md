@@ -4,17 +4,29 @@ image: /services/default.png
 keywords: Trademark,Patent,IP consultant,registration
 ---
 
-We help our clients turn ideas and innovations into enterprise opportunities.We define intellectual assets to create intellectual prosperity.
+### REASONS TO INSTALL A CCTV SYSTEM
 
-Our Attorneys are specialised in Protection of different styles of Trademarks or Service marks as Logo, Name, Composite mark, slogan, shape, captions, Monogram and punch line also advising at the adoption and selection of new trademarks; filing and prosecuting programs to sign up trademarks; advising at the use and registration of trademarks; managing trademark oppositions, revocations, invalidations and assignments; perform searches; and advising on trademark infringement matters
+There are a variety of reasons to consider installing a CCTV system for your business:
 
-* Trademark Registration Service
-* Trademark Watching Service
-* Protecting from Infringement and passing off
+* Reduces employee theft
+* Improves customer experience
+* Promotes safety
+* Increases employee productivity
+* Mitigate your liability risk
+* Remote management of the system
 
-Safety of an invention of a new product or a new manner that involves technological advancement and has financial significance, which makes that new product or process non-obvious to someone who is skilled in the era to which the product or system belongs. Also, advising filing and prosecuting applications to check in Patents; advising on the use and registration of Patents; managing Patent oppositions, revocations, invalidation, and assignments; carry out searches; and advising on
+### ACCESS CONTROL SYSTEMS
 
-* Patent infringement matters
-* Patent Registration Service
-* International patentability search
-* PCT Application
+&nbsp;We are expertly equipped to install
+
+**Intrusion detection and Security systems**
+
+These are custom designed and programmed for each application. Whether you need a basic security system consisting of motion sensors, smoke detectors, and door and window coverage, or a more elaborate system including wireless services and panic switches,
+
+**Total customization and design**
+
+We give you the ability to cover your entire building or strategically protect entrances and key areas. A variety of user programming options makes this solution perfect for your specific needs.
+
+## &nbsp;
+
+&nbsp;
