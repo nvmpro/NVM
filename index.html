@@ -106,9 +106,9 @@ bodyClass: page-home
             <div class="service service-summary">
                 <div class="service-content">
                     <h2 class="service-title">
-                        <a>{{ testimonials.title }}</a>
-                        <a>{{ testimonials.name }}</a>                    
+                        {{ testimonials.title }}
                     </h2>
+                    <h3>{{ testimonials.name }}</h3>
                   
                     {{ testimonials.content | markdownify | strip_html | truncate: 40 }}
                 </div>
