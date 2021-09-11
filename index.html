@@ -108,7 +108,7 @@ bodyClass: page-home
                     <h2 class="service-title">
                         {{ testimonials.title }}
                     </h2>
-                    <h3>{{ testimonials.name }}</h3>
+                    <h3class="service-title">{{ testimonials.name }}</h3>
                   
                     {{ testimonials.content | markdownify | strip_html | truncate: 40 }}
                 </div>
