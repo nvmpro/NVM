@@ -1,5 +1,5 @@
 ---
-title: Certifications
+title: Home and Office Automation
 image: /services/default.png
 keywords: ISO Certification, Registrations,Udyog Adhaar
 ---
