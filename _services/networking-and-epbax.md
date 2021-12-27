@@ -1,7 +1,7 @@
 ---
 title: Networking and EPBAX
 image: /services/default.png
-keywords: Business Plans,Profit Improvement,Advisory,Software Selection
+keywords: Networking and EPBAX
 ---
 
 Business advisory services are furnished with the aim to assist undertakings become aware of strengths and overcome weaknesses in unique areas
