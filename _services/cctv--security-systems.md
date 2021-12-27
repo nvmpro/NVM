@@ -1,6 +1,6 @@
 ---
 title: CCTV Security Systems
-image: /services/default.png
+image: /assets/images/2997.jpg
 keywords: CCTV  in Navi Mumbai , CCTV in Thane , CCTV  near me, CCTV in Ulwe
 ---
 
