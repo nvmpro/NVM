@@ -1,6 +1,6 @@
 ---
-title: 'Business Advisory'
-image: '/services/default.png'
+title: Networking and EPBAX
+image: /services/default.png
 keywords: Business Plans,Profit Improvement,Advisory,Software Selection
 ---
 
