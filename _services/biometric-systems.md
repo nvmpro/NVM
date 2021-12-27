@@ -1,7 +1,7 @@
 ---
-title: 'Startup Consulting'
-image: '/services/noun_1013177.png'
-keywords: Registrations,Licenses,GST,Ghumast,Liasoning
+title: Biometric Systems
+image: /services/noun_1013177.png
+keywords: Biometric Systems
 ---
 
 A startup is a enterprise which has been set up recently, works in much higher uncertainty and with limited assets and for this reason startups rent specialists to assist them with the early steps of an enterprise.
