@@ -4,11 +4,11 @@
   background-size: 115%;
   background-position: 49px 20px;
   @include media-breakpoint-up(sm) {
-    background-size: 70%;
+    background-size: 50%;
     background-position: 159px -20px;
   }
   @include media-breakpoint-up(md) {
-    background-size: 70%;
+    background-size: 50%;
     background-position: 100% -50px;
   }
   @include media-breakpoint-up(lg) {
